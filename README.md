@@ -74,6 +74,16 @@ Contrato da API (OpenAPI):
 - `PUT /respostas` – Atualiza os dados de uma resposta.
 - `DELETE /respostas/{id}` – Remove uma resposta.
 
+## 📬 Coleção Postman
+
+Para facilitar os testes, incluímos uma coleção do Postman com todas as requisições da API.
+
+**Importe o arquivo abaixo no Postman:**
+
+📁 `postman/forumhub-postman-collection.json`
+
+Com essa coleção, você poderá realizar autenticação, cadastro de usuários, tópicos, respostas e testar todos os endpoints com facilidade.
+
 ## Autor
 
 **Henrique Guilherme de Jesus Hernandes**  
